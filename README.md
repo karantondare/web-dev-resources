@@ -52,57 +52,83 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-Hello, thank you for checking out <a href="https://https://github.com/karantondare/web-dev-resources">Web Dev Resources</a>. These are the resources that I found which helped me learn full stack web development. Note: Some of the link are for the paid courses. Those attached links are not affiliated links.
+<details open="open">
+  <summary>About The Project</summary>
+  <br/>  
+  Hello, thank you for checking out <a href="https://https://github.com/karantondare/web-dev-resources">Web Dev Resources</a>. These are the resources that I found which helped   me learn full stack web development.
+  Note: Some of the links are for the paid courses. Any of the attached links are not affiliated.
+</details>
 
 <!-- GETTING STARTED -->
 ## Getting Started
-The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
 
-* [2021 Web Developer Roadmap](https://roadmap.sh/)
-* Brad Traversy's YouTube video on what to learn [Web Development In 2021 - A Practical Guide](https://www.youtube.com/watch?v=VfGW0Qiy2I0&ab_channel=TraversyMedia)
-* Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
-* [Teaching Yourself Computer Science](https://teachyourselfcs.com/)
+<details open="open">
+  <summary>Getting Started</summary>
+  <br/>
+  The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused    on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
+
+  * [2021 Web Developer Roadmap](https://roadmap.sh/)
+  * Brad Traversy's YouTube video on what to learn [Web Development In 2021 - A Practical Guide](https://www.youtube.com/watch?v=VfGW0Qiy2I0&ab_channel=TraversyMedia)
+  * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
+  * [Teaching Yourself Computer Science](https://teachyourselfcs.com/)
+</details>
 
 ---
 
 <!-- Programs and Classes  -->
 ## Programs and Classes
-* Bootcamps
-  * [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
-  * [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp).
 
-* Programs
-  * [The Odin Project](http://www.theodinproject.com/)
-  * [FreeCodeCamp](https://www.freecodecamp.com/)
-  * [The Essential Web Developer Course](https://open.appacademy.io/) Free access to various curriculums.
-  * [Full Stack Open by University of Helsinki](https://fullstackopen.com/en/) Learn to build Fullstack app usign MERN Stack.
-* Classes
-  * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
+<details open="open">
+  <summary>Programs and Classes</summary>
+  <br/>
+  
+  * Bootcamps
+    * [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
+    * [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp).
 
----
+  * Programs
+    * [The Odin Project](http://www.theodinproject.com/)
+    * [FreeCodeCamp](https://www.freecodecamp.com/)
+    * [The Essential Web Developer Course](https://open.appacademy.io/) Free access to various curriculums.
+    * [Full Stack Open by University of Helsinki](https://fullstackopen.com/en/) Learn to build Fullstack app usign MERN Stack.
+  * Classes
+    * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
+</details>
 
 <!-- Learn HTML  -->
 ## Learn HTML
 
-* [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
-* [Learn HTML and CSS](https://www.internetingishard.com/)
-* [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
-* [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+<details open="open">
+  <summary>HTML Resources</summary>
+  <br/>
+  
+  * [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
+  * [Learn HTML and CSS](https://www.internetingishard.com/)
+  * [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
+  * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+ </details>
 
 <!-- Learn CSS  -->
 ## Learn CSS
 
+<details open="open">
+  <summary>CSS Resources</summary>
+  <br/>
+  
 * [The Responsive Web Design Bootcamp](https://scrimba.com/learn/responsive)
 * [Learn HTML and CSS](https://www.internetingishard.com/)
 * [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse)
 * [100 Days Of CSS](https://100dayscss.com/)
 * [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
-
+</details>
 
 <!-- Learn JavaScript  -->
 ## Learn JavaScript
 
+<details open="open">
+  <summary>JavaScript Resources</summary>
+  <br/>
+  
 * [FreeCodeCamp's JavaScript Playlist on Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V)
 * [Scrimba's The JavaScript Bootcamp](https://scrimba.com/learn/javascript)
 * [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course)
@@ -114,14 +140,4 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
   * [Edabit](https://edabit.com/challenges/javascript)
   * [Exercism](https://exercism.io/tracks/javascript)
   * [Codewars](https://www.codewars.com)
-
-
-
-
-
-
-
-
-
-
-
+</details>
