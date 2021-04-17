@@ -37,6 +37,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#programs-and-classes">Programs and Classes</a></li>
     <li><a href="#learn-html">Learn HTML</a></li>
     <li><a href="#learn-css">Learn CSS</a></li>
     <li><a href="#learn-git">Learn GIT</a></li>
@@ -49,19 +50,78 @@
   </ol>
 </details>
 
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Hello, thank you for checking out <a href="https://https://github.com/karantondare/web-dev-resources">Web Dev Resources</a>. These are the resources that I found which helped me learn full stack web development. Note: Attached links are not affiliated link.
+Hello, thank you for checking out <a href="https://https://github.com/karantondare/web-dev-resources">Web Dev Resources</a>. These are the resources that I found which helped me learn full stack web development. Note: Some of the link are for the paid courses. Those attached links are not affiliated links.
+
+<!-- GETTING STARTED -->
+## Getting Started
+The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
+
+* [2021 Web Developer Roadmap](https://roadmap.sh/)
+* Brad Traversy's YouTube video on what to learn [Web Development In 2021 - A Practical Guide](https://www.youtube.com/watch?v=VfGW0Qiy2I0&ab_channel=TraversyMedia)
+* Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
+* [Teaching Yourself Computer Science](https://teachyourselfcs.com/)
+
+---
+
+<!-- Programs and Classes  -->
+## Programs and Classes
+* Bootcamps
+  * [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
+  * [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp).
+
+* Programs
+  * [The Odin Project](http://www.theodinproject.com/)
+  * [FreeCodeCamp](https://www.freecodecamp.com/)
+  * [The Essential Web Developer Course](https://open.appacademy.io/) Free access to various curriculums.
+  * [Full Stack Open by University of Helsinki](https://fullstackopen.com/en/) Learn to build Fullstack app usign MERN Stack.
+* Classes
+  * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
+
+---
+
+<!-- Learn HTML  -->
+## Learn HTML
+
+* [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
+* [Learn HTML and CSS](https://www.internetingishard.com/)
+* [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
+* [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+
+<!-- Learn CSS  -->
+## Learn CSS
+
+* [The Responsive Web Design Bootcamp](https://scrimba.com/learn/responsive)
+* [Learn HTML and CSS](https://www.internetingishard.com/)
+* [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse)
+* [100 Days Of CSS](https://100dayscss.com/)
+* [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
+
+
+<!-- Learn JavaScript  -->
+## Learn JavaScript
+
+* [FreeCodeCamp's JavaScript Playlist on Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V)
+* [Scrimba's The JavaScript Bootcamp](https://scrimba.com/learn/javascript)
+* [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course)
+* [Frontend Masters JavaScript Path](https://frontendmasters.com/learn/javascript/)
+* [Wes Bos's Beginner JavaScript Course](https://www.beginnerjavascript.com)
+* [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript)
+* [30 Day Vanilla JS Coding Challenge](https://javascript30.com)
+* Coding Challenges
+  * [Edabit](https://edabit.com/challenges/javascript)
+  * [Exercism](https://exercism.io/tracks/javascript)
+  * [Codewars](https://www.codewars.com)
+
+
+
+
+
+
+
+
+
+
+
