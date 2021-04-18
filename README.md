@@ -50,6 +50,8 @@
   </ol>
 </details>
 
+---
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <details open="open">
@@ -58,6 +60,8 @@
   Hello, thank you for checking out <a href="https://https://github.com/karantondare/web-dev-resources">Web Dev Resources</a>. These are the resources that I found which helped   me learn full stack web development.
   Note: Some of the links are for the paid courses. Any of the attached links are not affiliated.
 </details>
+
+---
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -75,8 +79,20 @@
 
 ---
 
-<!-- Programs and Classes  -->
-## Programs and Classes
+<!-- Best Bookmarks I Have  -->
+## What is the Single most useful CS Bookmark you have?
+
+<details open="open">
+  <summary>Programs and Classes</summary>
+  <br/>
+  
+  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+</details>
+
+---
+
+<!-- Programs and Curriculums -->
+## Programs and Curriculums
 
 <details open="open">
   <summary>Programs and Classes</summary>
@@ -89,11 +105,11 @@
   * Programs
     * [The Odin Project](http://www.theodinproject.com/)
     * [FreeCodeCamp](https://www.freecodecamp.com/)
-    * [The Essential Web Developer Course](https://open.appacademy.io/) Free access to various curriculums.
-    * [Full Stack Open by University of Helsinki](https://fullstackopen.com/en/) Learn to build Fullstack app usign MERN Stack.
-  * Classes
-    * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
+    * [The Essential Web Developer Course](https://open.appacademy.io/) Free access to their various curriculums.
+    * [Full Stack Open by University of Helsinki](https://fullstackopen.com/en/) Learn to build Fullstack app using MERN Stack.
 </details>
+
+---
 
 <!-- Learn HTML  -->
 ## Learn HTML
@@ -107,6 +123,8 @@
   * [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
   * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
  </details>
+ 
+ ---
 
 <!-- Learn CSS  -->
 ## Learn CSS
@@ -119,8 +137,13 @@
 * [Learn HTML and CSS](https://www.internetingishard.com/)
 * [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse)
 * [100 Days Of CSS](https://100dayscss.com/)
+* CSS Games
+  * [Flexbox Froggy](https://flexboxfroggy.com)
+  * [CSS Grid Garden](https://cssgridgarden.com/)
 * [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
 </details>
+
+---
 
 <!-- Learn JavaScript  -->
 ## Learn JavaScript
@@ -130,14 +153,55 @@
   <br/>
   
 * [FreeCodeCamp's JavaScript Playlist on Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V)
+* [MDN's JavaScript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Scrimba's The JavaScript Bootcamp](https://scrimba.com/learn/javascript)
 * [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course)
+* [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course)
 * [Frontend Masters JavaScript Path](https://frontendmasters.com/learn/javascript/)
 * [Wes Bos's Beginner JavaScript Course](https://www.beginnerjavascript.com)
 * [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript)
-* [30 Day Vanilla JS Coding Challenge](https://javascript30.com)
+* [javaScript.info](https://javascript.info)
+* JavsScript Projects
+  * [30 Day Vanilla JS Coding Challenge](https://javascript30.com)
+  * [100+ JavaScript Projects for Beginners!](https://jsbeginners.com/javascript-projects-for-beginners/)
+  * [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org)
+* JavaScript Data Structures and Algorithms
+  * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+  * [Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript)
 * Coding Challenges
   * [Edabit](https://edabit.com/challenges/javascript)
   * [Exercism](https://exercism.io/tracks/javascript)
   * [Codewars](https://www.codewars.com)
+* Books 
+  * [Eloquent JavaScript](https://eloquentjavascript.net)
+  * [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+  * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
+* Blog posts and Articles 
+  * [A Study Plan To Cure JavaScript Fatigue](https://www.freecodecamp.org/news/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 </details>
+
+---
+
+<!-- Learn JavaScript  -->
+## Learn React
+
+<details open="open">
+  <summary>React</summary>
+  <br/>
+  
+* [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=5s&ab_channel=freeCodeCamp.org)
+* [FreeCodeCamp's React Playlist on Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
+* [The Creative React and Redux Course](https://developedbyed.com/p/the-creative-react-and-redux-course)
+* [Epic React by Kent C. Dodds](https://epicreact.dev)
+* [70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify etc](https://gourav.io/clone-wars)
+* Books
+  * [Pure React by Dave Cedia](https://daveceddia.com/pure-react)
+  * [Learning React, 2nd Edition](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718)
+* Blog posts and Articles 
+  * [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
+  * [Why React Hooks?](https://ui.dev/why-react-hooks/)
+  * [Rendering a Sidebar or Breadcrumbs with React Router v4](https://ui.dev/react-router-v4-sidebar-breadcrumbs)
+  * [Flow Control in React](https://reacttraining.com/blog/flow-control-in-react)
+</details>
+
+---
