@@ -140,6 +140,7 @@
 * CSS Games
   * [Flexbox Froggy](https://flexboxfroggy.com)
   * [CSS Grid Garden](https://cssgridgarden.com/)
+  * [CSS Dinner](https://flukeout.github.io)
 * [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
 </details>
 
