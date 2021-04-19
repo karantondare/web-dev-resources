@@ -122,6 +122,7 @@
   * [Learn HTML and CSS](https://www.internetingishard.com/)
   * [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
   * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+  * [HTML Best Practices](https://github.com/hail2u/html-best-practices)
  </details>
  
  ---
