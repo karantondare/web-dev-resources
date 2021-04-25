@@ -83,7 +83,6 @@
 ## What is the Single most useful CS Bookmark you have?
 
 <details open="open">
-  <summary>Programs and Classes</summary>
   <br/>
   
   * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
@@ -92,7 +91,7 @@
 ---
 
 <!-- Programs and Curriculums -->
-## Programs and Curriculums
+## Programs and Classes
 
 <details open="open">
   <summary>Programs and Classes</summary>
@@ -147,6 +146,20 @@
 
 ---
 
+<!-- Learn CSS  -->
+## Learn Git
+
+<details open="open">
+  <summary>Git Resources</summary>
+  <br/>
+  
+* [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&t=5s&ab_channel=freeCodeCamp.org)
+* [Learn Git Branching](https://learngitbranching.js.org/)
+
+</details>
+
+---
+
 <!-- Learn JavaScript  -->
 ## Learn JavaScript
 
@@ -180,15 +193,17 @@
   * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 * Blog posts and Articles 
   * [A Study Plan To Cure JavaScript Fatigue](https://www.freecodecamp.org/news/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
+  * [Understanding Closures in JavaScript](https://blog.bitsrc.io/a-beginners-guide-to-closures-in-javascript-97d372284dda)
+  * [Callback Hell](http://callbackhell.com)
 </details>
 
 ---
 
 <!-- Learn JavaScript  -->
-## Learn React
+## Learn Reactjs
 
 <details open="open">
-  <summary>React</summary>
+  <summary>Reactjs</summary>
   <br/>
   
 * [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=5s&ab_channel=freeCodeCamp.org)
@@ -207,3 +222,23 @@
 </details>
 
 ---
+
+<!-- Learn JavaScript  -->
+## Learn Nodejs
+
+<details open="open">
+  <summary>Nodejs</summary>
+  <br/>
+  
+* [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2)
+* [Traversy Media's Nodejs Playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu)
+* Fullstack Projects
+  * [Build Social Media App by JavaScript Mastery](https://www.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu)
+  * [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce)
+
+* Blog posts and Articles 
+  * [The Node.js Way - Understanding Error-First Callbacks](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js)
+  * [How Node JS middleware Works?](https://medium.com/@selvaganesh93/how-node-js-middleware-works-d8e02a936113)
+
+</details>
+
