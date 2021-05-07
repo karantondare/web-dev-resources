@@ -86,6 +86,7 @@
   <br/>
   
   * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+  * [Dev Docs](https://devdocs.io)
 </details>
 
 ---
