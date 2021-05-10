@@ -26,7 +26,7 @@
   <h3 align="center">Best Web-Dev Resources</h3>
 
   <p align="center">
-    Find resources to learn full stack web development!
+    Find resources to become full stack web developer!
     <br />
   </p>
 </p>
@@ -42,6 +42,7 @@
     <li><a href="#learn-css">Learn CSS</a></li>
     <li><a href="#learn-git">Learn GIT</a></li>
     <li><a href="#learn-javascript">Learn JavaScript</a></li>
+    <li><a href="#learn-typescript">Learn TypeScript</a></li>
     <li><a href="#learn-reactjs">Learn Reactjs</a></li>
     <li><a href="#learn-nodejs">Learn Nodejs</a></li>
     <li><a href="#learn-apis">Learn API</a></li>
@@ -199,6 +200,27 @@
 </details>
 
 ---
+
+<!-- Learn TypeScript  -->
+## Learn TypeScript
+
+<details open="open">
+  <summary>TypeScript Resources</summary>
+  <br/>
+  
+* [TypeScript Fundamentals by Henry James](https://typescriptcourses.com/typescript-fundamentals)
+* [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=6181s)
+* [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
+* JavsScript Projects
+  * [Build a Shopping Cart with React and TypeScript - Tutorial](https://www.youtube.com/watch?v=sfmL6bGbiN8)
+* Books 
+  * [TypeScript in 50 Lessons](https://typescript-book.com)
+  * [Programming TypeScript: Making Your JavaScript Applications Scale](https://www.amazon.in/Programming-TypeScript-Boris-Cherny/dp/1492037656)
+  * [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://www.amazon.in/Effective-TypeScript-Dan-Vanderkam/dp/1492053740)
+  * [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts)
+* Blog posts and Articles 
+  * [Why You Should Choose TypeScript Over JavaScript](https://serokell.io/blog/why-typescript)
+</details>
 
 <!-- Learn JavaScript  -->
 ## Learn Reactjs
