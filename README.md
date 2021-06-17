@@ -210,7 +210,10 @@
   
 * [TypeScript Fundamentals by Henry James](https://typescriptcourses.com/typescript-fundamentals)
 * [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=6181s)
+* [TypeScript Playlist by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 * [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
+* [React + TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
+* [TypeScript Exercis](https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts)
 * JavsScript Projects
   * [Build a Shopping Cart with React and TypeScript - Tutorial](https://www.youtube.com/watch?v=sfmL6bGbiN8)
 * Books 
@@ -220,6 +223,10 @@
   * [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts)
 * Blog posts and Articles 
   * [Why You Should Choose TypeScript Over JavaScript](https://serokell.io/blog/why-typescript)
+  * [TypeScript Generics for People Who Gave Up on Understanding Generics](https://www.robinwieruch.de/react-testing-library)
+  * [Here is what every React Developer needs to know about TypeScript - Part 1](https://blog.dastasoft.com/posts/heres-what-every-react-developer-needs-to-know-about-typescript)
+  *[React Query and TypeScript](https://tkdodo.eu/blog/react-query-and-type-script)
+
 </details>
 
 <!-- Learn JavaScript  -->
@@ -234,6 +241,9 @@
 * [The Creative React and Redux Course](https://developedbyed.com/p/the-creative-react-and-redux-course)
 * [Epic React by Kent C. Dodds](https://epicreact.dev)
 * [70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify etc](https://gourav.io/clone-wars)
+* React Testing
+  * [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library)
+  * [Kent C. Dodds blogs on testing](https://kentcdodds.com/blog/?q=testing)
 * Books
   * [Pure React by Dave Cedia](https://daveceddia.com/pure-react)
   * [Learning React, 2nd Edition](https://www.oreilly.com/library/view/learning-react-2nd/9781492051718)
@@ -242,6 +252,7 @@
   * [Why React Hooks?](https://ui.dev/why-react-hooks/)
   * [Rendering a Sidebar or Breadcrumbs with React Router v4](https://ui.dev/react-router-v4-sidebar-breadcrumbs)
   * [Flow Control in React](https://reacttraining.com/blog/flow-control-in-react)
+  * [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior)
 </details>
 
 ---
