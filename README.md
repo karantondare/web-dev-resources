@@ -148,7 +148,7 @@
 
 ---
 
-<!-- Learn CSS  -->
+<!-- Learn Git  -->
 ## Learn Git
 
 <details open="open">
@@ -172,10 +172,8 @@
 * [FreeCodeCamp's JavaScript Playlist on Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V)
 * [MDN's JavaScript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Scrimba's The JavaScript Bootcamp](https://scrimba.com/learn/javascript)
-* [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course)
+* [Wes Bos's Beginner JavaScript Course](https://wesbos.com/javascript)
 * [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course)
-* [Frontend Masters JavaScript Path](https://frontendmasters.com/learn/javascript/)
-* [Wes Bos's Beginner JavaScript Course](https://www.beginnerjavascript.com)
 * [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript)
 * [javaScript.info](https://javascript.info)
 * JavsScript Projects
