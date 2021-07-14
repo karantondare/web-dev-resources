@@ -206,12 +206,12 @@
   <summary>TypeScript Resources</summary>
   <br/>
   
-* [TypeScript Fundamentals by Henry James](https://typescriptcourses.com/typescript-fundamentals)
 * [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=6181s)
 * [TypeScript Playlist by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+* [No BS TS by Jack Herrington](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 * [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
 * [React + TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
-* [TypeScript Exercis](https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts)
+* [TypeScript Exercise](https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts)
 * JavsScript Projects
   * [Build a Shopping Cart with React and TypeScript - Tutorial](https://www.youtube.com/watch?v=sfmL6bGbiN8)
 * Books 
@@ -251,6 +251,7 @@
   * [Rendering a Sidebar or Breadcrumbs with React Router v4](https://ui.dev/react-router-v4-sidebar-breadcrumbs)
   * [Flow Control in React](https://reacttraining.com/blog/flow-control-in-react)
   * [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior)
+  * [TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
 </details>
 
 ---
