@@ -252,6 +252,7 @@
   * [Flow Control in React](https://reacttraining.com/blog/flow-control-in-react)
   * [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior)
   * [TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
+  * [Not All Components Are Created Equal](https://formidable.com/blog/2021/react-components)
 </details>
 
 ---
