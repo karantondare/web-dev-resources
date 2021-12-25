@@ -173,7 +173,6 @@
 * [MDN's JavaScript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Scrimba's The JavaScript Bootcamp](https://scrimba.com/learn/javascript)
 * [Wes Bos's Beginner JavaScript Course](https://wesbos.com/javascript)
-* [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course)
 * [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript)
 * [javaScript.info](https://javascript.info)
 * JavsScript Projects
@@ -212,8 +211,6 @@
 * [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
 * [React + TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
 * [TypeScript Exercise](https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts)
-* JavsScript Projects
-  * [Build a Shopping Cart with React and TypeScript - Tutorial](https://www.youtube.com/watch?v=sfmL6bGbiN8)
 * Books 
   * [TypeScript in 50 Lessons](https://typescript-book.com)
   * [Programming TypeScript: Making Your JavaScript Applications Scale](https://www.amazon.in/Programming-TypeScript-Boris-Cherny/dp/1492037656)
@@ -236,7 +233,6 @@
   
 * [Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=5s&ab_channel=freeCodeCamp.org)
 * [FreeCodeCamp's React Playlist on Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
-* [The Creative React and Redux Course](https://developedbyed.com/p/the-creative-react-and-redux-course)
 * [Epic React by Kent C. Dodds](https://epicreact.dev)
 * [70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify etc](https://gourav.io/clone-wars)
 * React Testing
