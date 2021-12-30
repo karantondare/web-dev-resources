@@ -144,6 +144,8 @@
   * [CSS Grid Garden](https://cssgridgarden.com/)
   * [CSS Dinner](https://flukeout.github.io)
 * [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
+* Blog posts and Articles 
+  * [The CSS Cascade](https://wattenberger.com/blog/css-cascade)
 </details>
 
 ---
