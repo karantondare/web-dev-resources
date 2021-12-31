@@ -246,11 +246,11 @@
 * Blog posts and Articles 
   * [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
   * [Why React Hooks?](https://ui.dev/why-react-hooks/)
-  * [Rendering a Sidebar or Breadcrumbs with React Router v4](https://ui.dev/react-router-v4-sidebar-breadcrumbs)
   * [Flow Control in React](https://reacttraining.com/blog/flow-control-in-react)
   * [A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior)
   * [TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/)
   * [Not All Components Are Created Equal](https://formidable.com/blog/2021/react-components)
+  * [useState lazy initialization and function updates](https://kentcdodds.com/blog/use-state-lazy-initialization-and-function-updates)
 </details>
 
 ---
