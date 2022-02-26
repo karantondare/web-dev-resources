@@ -223,6 +223,8 @@
   * [TypeScript Generics for People Who Gave Up on Understanding Generics](https://www.robinwieruch.de/react-testing-library)
   * [Here is what every React Developer needs to know about TypeScript - Part 1](https://blog.dastasoft.com/posts/heres-what-every-react-developer-needs-to-know-about-typescript)
   *[React Query and TypeScript](https://tkdodo.eu/blog/react-query-and-type-script)
+  *[In-Depth Look at TypeScript Generics: Part 1 — Intro to Generics](https://itnext.io/in-depth-look-at-typescript-generics-part-1-intro-to-generics-7ddc72dcfcea)
+  *[In-Depth Look at TypeScript Generics: Part 2 — Advanced Inference](https://itnext.io/in-depth-look-at-typescript-generics-part-2-advanced-inference-5c75638ee6bf)
 
 </details>
 
