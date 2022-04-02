@@ -254,6 +254,7 @@
   * [Not All Components Are Created Equal](https://formidable.com/blog/2021/react-components)
   * [useState lazy initialization and function updates](https://kentcdodds.com/blog/use-state-lazy-initialization-and-function-updates)
   * [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
+  * [Should I useState or useReducer?](https://kentcdodds.com/blog/should-i-usestate-or-usereducer)
 </details>
 
 ---
